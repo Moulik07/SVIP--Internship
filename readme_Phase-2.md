@@ -1,7 +1,3 @@
-Certainly! Below is a detailed GitHub README template for your project. Please customize it with specific information about your Phase 2 project.
-
----
-
 # Data Science Internship - Phase 2 Project
 
 Welcome to the Phase 2 project of my Data Science internship at Shiney! This project is focused on comprehensive data exploration and analysis of a diverse dataset. Below, I provide an overview of the project, its objectives, and key findings.
@@ -9,7 +5,7 @@ Welcome to the Phase 2 project of my Data Science internship at Shiney! This pro
 ## Project Overview
 
 - **Objective**: To conduct in-depth data exploration, analyze data, and visualize insights.
-- **Dataset**: [Insert Dataset Source/Description]
+- **Dataset**: [https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/data/sales_data.csv]
 - **Tools**: Python, Pandas, Matplotlib, Seaborn
 
 ## Project Structure
@@ -49,29 +45,8 @@ Welcome to the Phase 2 project of my Data Science internship at Shiney! This pro
 
 - Created histograms for each numerical column, allowing for a better understanding of data distributions.
 
-## Results and Insights
-
-- The dataset comprises [Insert Notable Insights About Data].
-- [Insert Any Other Key Findings and Insights Here].
-
-## Getting Started
-
-To replicate this project on your local machine, follow these steps:
-
-1. Clone this repository: `git clone [Repository URL]`
-2. Install the required libraries: `pip install pandas matplotlib seaborn`
-3. Run the `code.py` script: `python code.py`
-
 ## Conclusion
 
 This project has been a valuable learning experience, enhancing my data analysis and visualization skills. I've gained insights into the dataset's characteristics and its potential impact on decision-making.
 
 I'm excited to share this project with the community and welcome any feedback or discussions about data science and analysis.
-
-## Connect with Me
-
-Let's connect on LinkedIn to discuss data science, analysis, and more! [Insert LinkedIn Profile Link]
-
----
-
-Feel free to replace the placeholder texts in square brackets with actual information about your project. Additionally, customize the GitHub README as needed to best represent your Phase 2 project.
